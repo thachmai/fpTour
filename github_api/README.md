@@ -3,11 +3,14 @@
 This example requires [Leiningen](http://leiningen.org) to run.
 If you have JDK 1.7 or 1.8 already installed, getting started with Leiningen should take less than 5 minutes.
 
-Once you have leiningen, simply run `lein deps` in this directory to download all 3rd party dependencies. 
+Once you have leiningen, simply run these commands to get started:
 
-I recommend running `lein repl` in this directory to start exploring the code.
+- `lein deps` to download all 3rd party dependencies. 
 
-Some examples that you can run:
+- `lein repl` to start exploring the code.
+
+
+Some examples that you can run in the REPL:
 
 ```
 ; to reload the changes in src/github_api/core.clj
